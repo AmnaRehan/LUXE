@@ -63,6 +63,7 @@ const mockProducts = [
     price: 950,
     originalPrice: 1200,
     image: "https://i.pinimg.com/736x/30/7b/45/307b45beff75ffbbf050e9fd17bffad8.jpg",
+    category: "earrings",
     material: "diamond",
     rating: 4.6,
     reviews: 203,
