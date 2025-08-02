@@ -1,7 +1,7 @@
---- Jewelry E-commerce Store
+# Jewelry E-commerce Store
 A modern, elegant e-commerce platform built with Next.js for showcasing and selling luxury jewelry pieces. Features a responsive design with smooth animations and a complete shopping experience.
 
-Deployed at Vercel: https://luxe-1kw4.vercel.app/
+## Deployed at Vercel: https://luxe-1kw4.vercel.app/
 
 🌟 Features
 🛍️ Shopping Experience
